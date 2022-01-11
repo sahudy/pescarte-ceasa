@@ -1,0 +1,2 @@
+# pescarte-ceasa
+Este repositório contém uma ferramenta automática de extração de dados da web e de leitura de arquivos PDF. Os dados extraídos são armazenados em um banco de dados no PostgreSQL para posterior consulta. A extração de dados é feita a partir dos boletins de cotações de pescado do site do CEASA/RJ, vinculado à Secretaria de Estado de Agricultura, Pecuária, Pesca e Abastecimento Rio de Janeiro (http://www.ceasa.rj.gov.br/ceasa_portal/).
